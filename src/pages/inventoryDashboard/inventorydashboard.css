@@ -1,0 +1,18 @@
+.inventoryContainer {
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: repeat(5, 200px);
+  grid-template-rows: repeat(5, 285px);
+  justify-items: center;
+}
+.add-inventory-button {
+  border: solid #eaebef 1.5px;
+  border-radius: 5px;
+  width: 200px;
+  height: 229px;
+  text-align: center;
+}
+.add-button-logo {
+  position: relative;
+  top: 50%;
+}

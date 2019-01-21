@@ -1,0 +1,46 @@
+.shoe-wrapper {
+  position: relative;
+  border: solid #eaebef 1.5px;
+  border-radius: 5px;
+  width: 200px;
+  height: 229px;
+}
+.shoe-wrapper:hover {
+  cursor: pointer;
+  box-shadow: 0 0 5px #3fae2a;
+}
+.shoe-picture {
+  margin-top: 13px;
+  width: 140px;
+  height: 100px;
+}
+.shoe-brand {
+  font-weight: bold;
+  padding-left: 30px;
+  text-align: left;
+}
+.shoe-style {
+  padding-left: 30px;
+  text-align: left;
+}
+.shoe-qty {
+  padding-left: 30px;
+  text-align: left;
+}
+.shoe-upc {
+  padding-left: 30px;
+  text-align: left;
+}
+/* wrapper --- options */
+.shoe-container-wrapper {
+  width: 200px;
+}
+.shoe-options {
+  margin-top: 1px;
+  position: relative;
+  border: solid #eaebef 1.5px;
+  border-radius: 5px;
+}
+.shoe-options:hover {
+  cursor: pointer;
+}
